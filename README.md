@@ -1,10 +1,10 @@
 # AETHER Display
 ## Research Project AETHER-001
 
-**Status:** hardware-prototyping  
+**Status:** prototyping  
 **Phase:** Cycle 3  
 **Started:** 2026-03-28T03:18:00+08:00  
-**Success Probability:** 0.78
+**Success Probability:** 0.85
 
 ### Concept
 A volumetric display using optically-trapped particles in a 30cm³ display volume. Particles are positioned via acoustic levitation fields and illuminated by scanning lasers to create true 3D imagery with 360° viewing angles.
